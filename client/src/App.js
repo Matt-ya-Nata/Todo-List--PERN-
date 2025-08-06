@@ -1,10 +1,17 @@
 import { Fragment } from 'react/jsx-runtime';
-import React,Fragment from 'react';
 import './App.css';
+
+//componants
+
+import InputTodo from "./componants/InputTodo"
 
 function App() {
   return (
-    <Fragment></Fragment>
+    <Fragment>
+      <div className='container'>
+        <InputTodo/>
+      </div>
+    </Fragment>
   );
 }
 
