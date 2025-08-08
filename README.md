@@ -1,4 +1,4 @@
-# PERN Stack To-Do App
+# PERN Stack To-Do App.
 
 A full-stack to-do list application built using the **PERN stack** (PostgreSQL, Express, React, Node.js)
 
